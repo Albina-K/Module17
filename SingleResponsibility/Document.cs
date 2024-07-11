@@ -24,10 +24,17 @@ namespace SingleResponsibility
         {
             Console.WriteLine("Увеличиваем масштаб");
         }
-        public void ExportToPdf()
+        //public void ExportToPdf()
+        //{
+        //    Console.WriteLine($"Экспортируем в пдф");
+        //    Console.WriteLine(Text);
+        //}
+        ///<summary>
+        ///экспорт в любые форматы
+        /// </summary>
+        public void Export(IExporter exporter)
         {
-            Console.WriteLine($"Экспортируем в пдф");
-            Console.WriteLine(Text);
+            exporter.Export(Text);
         }
     }
 }

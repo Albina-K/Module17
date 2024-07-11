@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace SingleResponsibility
+{
+    class Program
+    {
+        static void Main()
+        {
+            IExporter exporter = new PdfExporter();
+            Document document = new Document();
+            document.Text = "Hello Word";
+            document.Export(exporter);
+        }
+    }
+}
