@@ -49,6 +49,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralPatterns", "Struc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BehavioralPatterns", "BehavioralPatterns", "{B70FD162-C954-4A60-9A00-146B30DC2914}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{A2036F02-C149-44A7-B74E-3AA677AA8665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{CBCFA025-F0FC-425E-A242-9A70287AAEA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +135,14 @@ Global
 		{4D22F5EA-81EB-4DA8-873A-91BF2B30A3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D22F5EA-81EB-4DA8-873A-91BF2B30A3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D22F5EA-81EB-4DA8-873A-91BF2B30A3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2036F02-C149-44A7-B74E-3AA677AA8665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2036F02-C149-44A7-B74E-3AA677AA8665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2036F02-C149-44A7-B74E-3AA677AA8665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2036F02-C149-44A7-B74E-3AA677AA8665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBCFA025-F0FC-425E-A242-9A70287AAEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCFA025-F0FC-425E-A242-9A70287AAEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCFA025-F0FC-425E-A242-9A70287AAEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCFA025-F0FC-425E-A242-9A70287AAEA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -154,6 +166,8 @@ Global
 		{B6F9A28D-653A-4CB3-8BE7-905971C573CE} = {B70FD162-C954-4A60-9A00-146B30DC2914}
 		{5AC39CDB-8396-4D1F-BB7B-C1E3E9B64B95} = {B70FD162-C954-4A60-9A00-146B30DC2914}
 		{4D22F5EA-81EB-4DA8-873A-91BF2B30A3E2} = {BAED9E14-46E0-4A3B-B480-B79146A19CDF}
+		{A2036F02-C149-44A7-B74E-3AA677AA8665} = {BAED9E14-46E0-4A3B-B480-B79146A19CDF}
+		{CBCFA025-F0FC-425E-A242-9A70287AAEA2} = {BAED9E14-46E0-4A3B-B480-B79146A19CDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {32CC66C6-6A57-4FEE-9431-6EE8BC637C88}
