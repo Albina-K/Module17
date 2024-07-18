@@ -3,45 +3,45 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module17", "Module17\Module17.csproj", "{C43719C9-BB7F-49E1-BF99-4586F76CEC15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module17", "Module17\Module17.csproj", "{C43719C9-BB7F-49E1-BF99-4586F76CEC15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonExample", "SingletonExample\SingletonExample.csproj", "{425E1B48-156F-4EBA-9341-7682A5ABAFD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonExample", "SingletonExample\SingletonExample.csproj", "{425E1B48-156F-4EBA-9341-7682A5ABAFD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonRealExample", "SingletonRealExample\SingletonRealExample.csproj", "{D4C30805-6EFD-43B2-9AF9-8F1ED76D3CDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonRealExample", "SingletonRealExample\SingletonRealExample.csproj", "{D4C30805-6EFD-43B2-9AF9-8F1ED76D3CDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryExample", "AbstractFactoryExample\AbstractFactoryExample.csproj", "{92C60D71-FC42-423C-A22F-7F3FFC2E3797}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryExample", "AbstractFactoryExample\AbstractFactoryExample.csproj", "{92C60D71-FC42-423C-A22F-7F3FFC2E3797}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryRealExample", "AbstractFactoryRealExample\AbstractFactoryRealExample.csproj", "{F8D2713E-3EE4-4237-BD36-94DA0B4F9429}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryRealExample", "AbstractFactoryRealExample\AbstractFactoryRealExample.csproj", "{F8D2713E-3EE4-4237-BD36-94DA0B4F9429}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMetodExample", "FactoryMetodExample\FactoryMetodExample.csproj", "{E2360FBC-0E3E-47D9-8C8C-A7B50A871CB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMetodExample", "FactoryMetodExample\FactoryMetodExample.csproj", "{E2360FBC-0E3E-47D9-8C8C-A7B50A871CB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodRealExample", "FactoryMethodRealExample\FactoryMethodRealExample.csproj", "{405F3794-C7FD-4742-AE2B-52C0ECE4EA5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethodRealExample", "FactoryMethodRealExample\FactoryMethodRealExample.csproj", "{405F3794-C7FD-4742-AE2B-52C0ECE4EA5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterExample", "AdapterExample\AdapterExample.csproj", "{3E4022EA-33CB-4E1A-9BE1-EA13B69F2CEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterExample", "AdapterExample\AdapterExample.csproj", "{3E4022EA-33CB-4E1A-9BE1-EA13B69F2CEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterRealExample", "AdapterRealExample\AdapterRealExample.csproj", "{584B3817-817A-4B96-B7EA-E03A9F72121D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterRealExample", "AdapterRealExample\AdapterRealExample.csproj", "{584B3817-817A-4B96-B7EA-E03A9F72121D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeExample", "CompositeExample\CompositeExample.csproj", "{8B0BD297-E1E9-4F3C-967B-3637254CF845}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositeExample", "CompositeExample\CompositeExample.csproj", "{8B0BD297-E1E9-4F3C-967B-3637254CF845}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{6636691B-D470-4058-8DD8-66EE7B3EEDB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{6636691B-D470-4058-8DD8-66EE7B3EEDB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeRealExample", "FacadeRealExample\FacadeRealExample.csproj", "{FFB20A8B-E0DF-4AC2-9FDE-BBA194B51A65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeRealExample", "FacadeRealExample\FacadeRealExample.csproj", "{FFB20A8B-E0DF-4AC2-9FDE-BBA194B51A65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityExample", "ChainOfResponsibilityExample\ChainOfResponsibilityExample.csproj", "{5BAE995E-6468-42CC-A4BE-B2028BA0AF49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibilityExample", "ChainOfResponsibilityExample\ChainOfResponsibilityExample.csproj", "{5BAE995E-6468-42CC-A4BE-B2028BA0AF49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityRealExample", "ChainOfResponsibilityRealExample\ChainOfResponsibilityRealExample.csproj", "{E5535AAD-3AF9-4FFE-BD4B-6130719BDD20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibilityRealExample", "ChainOfResponsibilityRealExample\ChainOfResponsibilityRealExample.csproj", "{E5535AAD-3AF9-4FFE-BD4B-6130719BDD20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateExample", "StateExample\StateExample.csproj", "{23BE8B44-29B3-489C-A772-2CFF5D2F1EEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StateExample", "StateExample\StateExample.csproj", "{23BE8B44-29B3-489C-A772-2CFF5D2F1EEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateRealExample", "StateRealExample\StateRealExample.csproj", "{CB0F6199-99DE-4A7F-A1BC-AC9526BB04E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StateRealExample", "StateRealExample\StateRealExample.csproj", "{CB0F6199-99DE-4A7F-A1BC-AC9526BB04E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverExample", "ObserverExample\ObserverExample.csproj", "{B6F9A28D-653A-4CB3-8BE7-905971C573CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverExample", "ObserverExample\ObserverExample.csproj", "{B6F9A28D-653A-4CB3-8BE7-905971C573CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverRealExample", "ObserverRealExample\ObserverRealExample.csproj", "{5AC39CDB-8396-4D1F-BB7B-C1E3E9B64B95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverRealExample", "ObserverRealExample\ObserverRealExample.csproj", "{5AC39CDB-8396-4D1F-BB7B-C1E3E9B64B95}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solid", "Solid", "{BAED9E14-46E0-4A3B-B480-B79146A19CDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "SingleResponsibility\SingleResponsibility.csproj", "{4D22F5EA-81EB-4DA8-873A-91BF2B30A3E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibility", "SingleResponsibility\SingleResponsibility.csproj", "{4D22F5EA-81EB-4DA8-873A-91BF2B30A3E2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GenerativePatterns", "GenerativePatterns", "{0F46ADC4-597C-40E8-B790-852C9C2E2DC3}"
 EndProject
@@ -49,9 +49,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralPatterns", "Struc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BehavioralPatterns", "BehavioralPatterns", "{B70FD162-C954-4A60-9A00-146B30DC2914}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{A2036F02-C149-44A7-B74E-3AA677AA8665}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{A2036F02-C149-44A7-B74E-3AA677AA8665}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{CBCFA025-F0FC-425E-A242-9A70287AAEA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{CBCFA025-F0FC-425E-A242-9A70287AAEA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{BF3E630C-193F-46E1-AB16-B71AE129FCCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{93924FFA-2D22-4DA4-B730-41E935A6AE32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -143,6 +147,14 @@ Global
 		{CBCFA025-F0FC-425E-A242-9A70287AAEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBCFA025-F0FC-425E-A242-9A70287AAEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBCFA025-F0FC-425E-A242-9A70287AAEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3E630C-193F-46E1-AB16-B71AE129FCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3E630C-193F-46E1-AB16-B71AE129FCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3E630C-193F-46E1-AB16-B71AE129FCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3E630C-193F-46E1-AB16-B71AE129FCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93924FFA-2D22-4DA4-B730-41E935A6AE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93924FFA-2D22-4DA4-B730-41E935A6AE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93924FFA-2D22-4DA4-B730-41E935A6AE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93924FFA-2D22-4DA4-B730-41E935A6AE32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -168,6 +180,8 @@ Global
 		{4D22F5EA-81EB-4DA8-873A-91BF2B30A3E2} = {BAED9E14-46E0-4A3B-B480-B79146A19CDF}
 		{A2036F02-C149-44A7-B74E-3AA677AA8665} = {BAED9E14-46E0-4A3B-B480-B79146A19CDF}
 		{CBCFA025-F0FC-425E-A242-9A70287AAEA2} = {BAED9E14-46E0-4A3B-B480-B79146A19CDF}
+		{BF3E630C-193F-46E1-AB16-B71AE129FCCA} = {BAED9E14-46E0-4A3B-B480-B79146A19CDF}
+		{93924FFA-2D22-4DA4-B730-41E935A6AE32} = {BAED9E14-46E0-4A3B-B480-B79146A19CDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {32CC66C6-6A57-4FEE-9431-6EE8BC637C88}
